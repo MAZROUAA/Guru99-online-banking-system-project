@@ -1,0 +1,13 @@
+Website
+https://demo.guru99.com/
+Srs
+https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit#
+
+Test cases
+https://docs.google.com/spreadsheets/d/1j_8s0Y5Lmtpsx4KPKb7IGkFJtqkBGBUjlfV8h7UbQ3w/edit#gid=1318957108
+
+bug reports
+https://docs.google.com/spreadsheets/d/1a0C1LC8feF5Emdefhd8lRDq9NC3j_G2kJK3ctTuOkg0/edit#gid=1057148068
+
+bug report last version
+https://docs.google.com/spreadsheets/d/1exg8UFFuJoQ7iYwnxK18B8n33x7y1C9CHhhxaIB78_4/edit#gid=1508748976
